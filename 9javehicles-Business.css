@@ -77,11 +77,7 @@
   
   }
   
-  /* .jkl-flex1{
-  
-  display: flex;
-  } */
-  
+
   .firstview1 li a{
   
   text-decoration: none;
@@ -120,14 +116,11 @@
   
   text-decoration: black;
   text-decoration: dotted;
-  
-  
-  
+
   }
   
   
-  
-  
+
   .first-very p button{
   background-color: blue;
   color: white;
@@ -144,15 +137,11 @@
   
   .first-very li{
   padding-left: -10px !important;
-  
-  
-  
+
   }
   
   
-  
-  
-  
+
   
   /* ============================= */
   /* Outside Page Navigation End   */
@@ -201,7 +190,6 @@
   
   .content {
     width: 60%;
-    /* padding: 80px; */
   
     .contact-us {
       width: 25%;
@@ -232,7 +220,6 @@
     width: 98%;
     margin-top: -50px;
     height: 110vh;
-    /* position: relative; */
   }
   
   .percentage {
@@ -241,7 +228,6 @@
     border-radius: 10px;
     color: white;
     width: 85%;
-    /* margin: auto; */
     padding: 16px;
     justify-content: center;
     margin-top: -20px;
@@ -262,7 +248,6 @@
       .number {
         font-weight: bold;
         font-size: 40px;
-        /* margin-top: 80px; */
         margin-right: 150px;
       }
   
@@ -287,12 +272,10 @@
       margin-left: 50px;
       margin-top: 20px;
       font-size: 15px;
-      /* width: 33%; */
   
       .number {
         font-weight: bold;
         font-size: 40px;
-        /* margin-top: 80px; */
         margin-right: 150px;
       }
   
@@ -321,7 +304,6 @@
       .number {
         font-weight: bold;
         font-size: 40px;
-        /* margin-top: 80px; */
         margin-right: 150px;
       }
   
@@ -443,7 +425,6 @@
   
     .explore a {
       margin-left: 6px;
-      /* color: blue; */
       text-decoration: none;
       font-weight: 700;
     }
@@ -595,7 +576,6 @@
     .write-ups h5 {
       color: #ffff;
       font-size: 30px;
-      /* margin-bottom: 10px; */
       font-family: "Times New Roman", Times, serif;
     }
   
@@ -671,8 +651,6 @@
   }
   
   .carousel-indicators button {
-    /* position: relative; */
-    /* visibility: visible; */
     color: #f4f6f9;
     height: 10px !important;
     border-radius: 100px !important;
@@ -707,7 +685,6 @@
   
     .explore a {
       margin-left: 6px;
-      /* color: blue; */
       text-decoration: none;
       font-weight: 700;
     }
@@ -763,7 +740,6 @@
   
   .skill-score img {
     width: 95%;
-    /* margin-top: -50px; */
     height: 60vh;
   }
   
@@ -809,7 +785,6 @@
   
     .explore a {
       margin-left: 6px;
-      /* color: blue; */
       text-decoration: none;
       font-weight: 700;
     }
@@ -882,7 +857,6 @@
   
     .explore a {
       margin-left: 6px;
-      /* color: blue; */
       text-decoration: none;
       font-weight: 700;
     }
@@ -981,7 +955,6 @@
     width: 43%;
     margin-left: auto;
     border: 1px solid black;
-    /* background-color: aqua; */
     text-align: center;
   
     /* personal styling starts here */
@@ -1088,11 +1061,6 @@
     border-radius: 10px !important;
     height: 62vh;
     padding: 50px 20px;
-    /* background: url();
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: cover;
-     */
     
   
     .card-title {
@@ -1234,23 +1202,18 @@
     .image img {
       width: 100%;
       margin-top: 50px;
-      /* padding: 130px; */
       height: 100vh;
     }
   
     .percentage {
       display: block;
       width: 94%;
-      /* margin: auto; */
       padding: 3px;
       justify-content: center;
       margin-top: -50px;
       position: absolute;
       left: 14px;
   
-      /* .vl{
-      margin-left: 180;
-    } */
   
       .vl {
         height: 1px;
@@ -1267,7 +1230,6 @@
   
         .number {
           font-size: 40px;
-          /* margin-top: 80px; */
           margin-right: 150px;
         }
   
@@ -1345,7 +1307,6 @@
   
     .logos {
       display: block;
-      /* margin-top: 880px; */
     }
   
     .container {
@@ -1437,7 +1398,6 @@
   
       .explore a {
         margin-left: 6px;
-        /* color: blue; */
         text-decoration: none;
         font-weight: 700;
       }
@@ -1570,7 +1530,6 @@
   
       .write-ups h5 {
         color: #ffff;
-        /* margin-bottom: 10px; */
         font-family: "Times New Roman", Times, serif;
       }
   
@@ -1591,12 +1550,11 @@
       }
   
       .card {
-        /* margin: 15px; */
         border-radius: 10px !important;
         height: 35vh;
         text-decoration: none;
         width: 100%;
-        /* margin-left: 5px; */
+
   
         .card-title {
           font-size: 10px;
@@ -1638,8 +1596,6 @@
     }
   
     .carousel-indicators button {
-      /* position: relative; */
-      /* visibility: visible; */
       color: #f4f6f9;
       height: 10px !important;
       border-radius: 100px !important;
@@ -1676,7 +1632,6 @@
   
       .explore a {
         margin-left: 6px;
-        /* color: blue; */
         text-decoration: none;
         font-weight: 700;
       }
@@ -1773,7 +1728,6 @@
   
       .explore a {
         margin-left: 16px;
-        /* color: blue; */
         text-decoration: none;
         font-weight: 700;
       }
@@ -1928,7 +1882,6 @@
   
     .lets-talk h1 {
       font-size: 35px;
-      /* width: 100%; */
       margin-left: -33px;
       margin-bottom: 30px;
     }
@@ -1995,124 +1948,5 @@
   
     /* JOB-SKILLS styling/ ends here */
   }
-/*   
-  .footer_9javehicles a{
-    display: block;
-    text-decoration: none;
-    color: rgb(14, 13, 13);
-    font-weight: normal;
-    font-size: 13px;
-    padding: 5px;
-  }
-  
-  .footer_9javehicles h5{
-    padding-bottom: 15px;
-  }
-  .footer_9javehicles{
-    display: flex;
-    padding-left: 4rem !important;
-    padding-top: 3rem;
-    padding-bottom: 4rem;
-   
-  }
-  .footer_9javehicles a:hover{
-    text-decoration: underline;
-  }
-  
-  .footer_9javehicles a{
-    display: block;
-    text-decoration: none;
-    color: rgb(14, 13, 13);
-    font-weight: normal;
-    font-size: 14px;
-   
-  }
-  .footer_9javehicles{
-    display: flex;
-    padding: 20px 0px;
-    padding-left: 3rem;
-    padding-top: 3rem;
-    border-top: 1px solid lightgray;
-  }
-  .footer_9javehicles h5{
-    padding-bottom: 15px;
-   
-  }
-  .footer_9javehicles a:hover{
-    text-decoration: underline;
-  }
-  .mobile_app img{
-    width: 10rem;
-    height: 3rem;
-    margin-top: 12px;
-    
-  }
-  .b_cert img{
-    width: 5rem;
-    height: 8rem;
-    margin-left: 3rem;
-  }
-   */
-  /* Copyright and socials */
-  
-  /* .soci-ials{
-    display: flex;
-    justify-content: space-between;
-    border-bottom: 1px solid lightgray;
-    padding-top: 1rem;
-    padding-bottom: 4rem;
-    border-top: 1px solid lightgray;
-    position: relative;
-  }
-  .copy_right span{
-    padding-left: 3rem;
-  }
-  .copy_right{
-    position: absolute;
-  }
-  .social_media a{
-    text-decoration: none;
-    color: black;
-    font-size: 1.6rem;
-    padding: 0px 10px; 
-  }
-  
-  .so-cia {
-   position: absolute;
-   right: 3rem;
-  }
-  .link-foot{
-    font-size: 12px;
-    padding-top: 2rem;
-    padding-bottom: 2rem;
-    padding-left: 3rem;
-  
-  }
-  .link-foot h6{
-    font-size: 12px;
-    font-weight: 400;
-    padding-left: 2rem;
-    padding-bottom: 1rem;
-  }
-  .link-foot p{
-    margin-top: -1rem; 
-  }
-  
-  .link-foot a{
-    padding-left: 10px;
-    color: black;
-  }
-  
-  @media (max-width:600px){
-    /* Footer here */
-  
-  /* .so-cia{
-    margin-top: 1.5rem;
-  
-  }
-  .link-foot{
-    margin-left: -2rem;
-  }
-  } */
 
    
